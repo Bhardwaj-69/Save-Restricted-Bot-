@@ -1,8 +1,8 @@
 # WOODcraft https://github.com/SudoR2spr/Save-Restricted-Bot
-import pyrogram
-from pyrogram import Client, filters
-from pyrogram.errors import UserAlreadyParticipant, InviteHashExpired, UsernameNotOccupied
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+import pyrofork
+from pyrofork import Client, filters
+from pyrofork.errors import UserAlreadyParticipant, InviteHashExpired, UsernameNotOccupied
+from pyrofork.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 import time
 import os
